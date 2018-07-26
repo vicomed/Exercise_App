@@ -13,6 +13,8 @@
   "author": "Victoria Medley",
   "license": "MIT",
   "dependencies": {
+    "express": "^4.16.3",
+    "mongo": "^0.1.0",
     "npm": "^6.2.0"
   }
 }
